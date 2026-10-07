@@ -1,0 +1,11 @@
+# Ejecutables y archivos objeto de C
+*.o
+*.out
+*.exe
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Archivo de espacio de trabajo de Octave
+octave-workspace
